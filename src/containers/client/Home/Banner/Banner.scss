@@ -1,0 +1,11 @@
+.carousel {
+    img {
+        height: 600px;
+    }
+}
+
+.carousel .thumbs,
+.carousel .carousel-status,
+.carousel.carousel-slider .control-arrow {
+    display: none;
+}
